@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Roots"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E068</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Goblin Cloth"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E468</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Spirit Boost*"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E368</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Dragon Scale"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E5E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Bat Wings"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25937A41FE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Wood"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E0E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Fairy Cloth"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E3E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Yeti Fang"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E4E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Titanium"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E668</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Slime"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E268</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"Pincer"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25933C7E568</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"Simurgh Feather"</Description>
+      <VariableType>Double</VariableType>
+      <Address>25937A41EE8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"CLAW"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>25937A2AE88</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"SPEAR"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2593ACF12B8</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
